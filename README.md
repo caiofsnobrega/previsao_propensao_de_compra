@@ -1,4 +1,4 @@
-# Previsão de Intenção de Compra de E-commerce
+# Previsão de Intenção de Compra em E-commerce
 
 ## 📋 Descrição do Projeto
 Este projeto tem por objetivo criar um sistema preditivo para antecipar a intenção de compra de clientes no e-commerce, baseando-se em seu perfil demográfico e histórico de consumo. A solução visa otimizar estratégias de marketing, identificar perfis de alta conversão e melhorar a experiência do usuário.
