@@ -3,6 +3,17 @@
 ## 📋 Descrição do Projeto
 Este projeto tem por objetivo criar um sistema preditivo para antecipar a intenção de compra de clientes no e-commerce, baseando-se em seu perfil demográfico e histórico de consumo. A solução visa otimizar estratégias de marketing, identificar perfis de alta conversão e melhorar a experiência do usuário.
 
+## 🛠 Metodologia (Pipeline de Dados)
+O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
+
+**Preparação e Exploração (EDA)**: Análise da distribuição dos dados e identificação de correlações.
+
+**Pré-processamento**: Tratamento de valores ausentes, limpeza e engenharia de features.
+
+**Modelagem**: Aplicação de algoritmos de classificação para prever a intenção de compra.
+
+**Avaliação**: Validação do desempenho do modelo utilizando métricas como Precisão, Recall e Matriz de Confusão.
+
 ## 📊 Principais Insights da Análise Exploratória (EDA)
 **Comportamento de Compra**: Categorias como Vinhos e Carnes são as que apresentam maior volume financeiro e maior taxa de conversão online, sugerindo que o e-commerce é um canal forte para estes nichos.
 
