@@ -19,7 +19,7 @@ O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 **Perfil do Cliente**: Clientes com renda acima de 50 mil anuais demonstram maior propensão a compras online, enquanto consumidores de renda mais baixa (até 40 mil) convertem menos.
 
-**Fidelidade**: Existe uma correlação positiva entre o número de compras na loja física e a propensão à compra online. Clientes frequentes no varejo físico são mais propensos a migrar para o digital.
+**Fidelidade**: Existe uma correlação positiva entre o número de compras na loja física e a propensão à compra online. Clientes frequentes na loja física são mais propensos a migrar para o digital.
 
 **Comportamento de Navegação**: Foi identificado um grupo relevante que visita o site frequentemente (até 8 vezes/mês) sem realizar compras, sugerindo o uso da plataforma para pesquisa de preços antes da decisão de compra.
 
@@ -27,7 +27,7 @@ O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 Foram testados dois algoritmos de classificação: **Regressão Logística e Random Forest**.
 
-- Modelo Vencedor: O Random Forest superou a Regressão Logística, atingindo 90% de acurácia média via validação cruzada (5 folds).
+- Modelo Vencedor: O Random Forest superou a Regressão Logística, atingindo 90% de acurácia média via validação cruzada.
 
 - Features Mais Importantes: As 5 variáveis que mais influenciaram as previsões foram:
 Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e Nº de acessos mensais ao site
@@ -40,4 +40,4 @@ Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e N�
 
 **Fidelização**: Clientes com baixo histórico de compras na loja física devem ser alvo de campanhas de engajamento para torná-los mais frequentes e habituá-los ao canal online.
 
-**Eficiência**: A simplificação do modelo utilizando apenas as 5 features mais importantes manteve a robustez (89% de acurácia), provando ser uma solução eficiente e menos custosa para implementação.
+**Eficiência**: A simplificação do modelo utilizando apenas as 5 features mais importantes manteve a robustez (89% de acurácia), provando ser uma solução eficiente para implementação.
