@@ -41,3 +41,7 @@ Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e N�
 **Fidelização**: Clientes com baixo histórico de compras na loja física devem ser alvo de campanhas de engajamento para torná-los mais frequentes e habituá-los ao canal online.
 
 **Eficiência**: A simplificação do modelo utilizando apenas as 5 features mais importantes manteve a robustez (89% de acurácia), provando ser uma solução eficiente para implementação.
+
+### Algumas Visualizações Geradas no Projeto:
+
+![Gastos Produtos](images/histograma_produtos.png)
