@@ -44,6 +44,20 @@ Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e N�
 
 ### Algumas Visualizações Geradas no Projeto:
 
+#### Gastos - Categorias de Produtos
 ![Gastos Produtos](images/histogramas_produtos.png)
 
+#### Categorias de Produtos 
+![Produtos](images/produtos_catplot.png)
 
+#### Visitas ao Site
+![Visitas](images/visitas_hist.png)
+
+#### Análise de Renda
+![Renda](images/renda_hist.png)
+
+#### Recência
+![Recência](images/recency_densidade.png)
+
+#### Número de Compras
+![Número de Compras](images/n_compras_hist.png)
