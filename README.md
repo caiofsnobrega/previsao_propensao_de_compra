@@ -44,4 +44,6 @@ Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e N�
 
 ### Algumas Visualizações Geradas no Projeto:
 
-![Gastos Produtos](images/histograma_produtos.png)
+![Gastos Produtos](images/histogramas_produtos.png)
+
+
