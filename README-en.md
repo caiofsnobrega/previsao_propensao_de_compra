@@ -1,4 +1,6 @@
-# E-commerce Purchase Intention Prediction
+# E-commerce Purchase Intention Prediction  
+
+*[Veja a versão em Português aqui](README.md)*
 
 ## Project Description
 This project aims to create a predictive system to anticipate customer purchase intentions in e-commerce, based on demographic profiles and consumption history. The solution seeks to optimize marketing strategies, identify high-conversion profiles, and improve the user experience.
