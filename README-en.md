@@ -27,7 +27,8 @@ Development followed standard Data Science stages:
 
 Two classification algorithms were tested: **Logistic Regression and Random Forest**.
 
-- Winning Model: Random Forest outperformed Logistic Regression, achieving 90% average accuracy via cross-validation. - Key Features: The 5 variables that most influenced the predictions were:
+- Winning Model: Random Forest outperformed Logistic Regression, achieving 90% average accuracy via cross-validation.
+- Key Features: The 5 variables that most influenced the predictions were:
 Wine spending, Meat spending, Income, Number of in-store purchases, and Number of monthly website visits.
 
 - Performance: The final model showed an excellent balance, with 95% recall for the positive class, demonstrating a high capacity to capture customers with genuine purchase intent.
