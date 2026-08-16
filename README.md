@@ -1,9 +1,11 @@
-# Previsão de Intenção de Compra em E-commerce
+# Previsão de Intenção de Compra em E-commerce  
 
-## 📋 Descrição do Projeto
+*[Click here for the English version](README-en.md)*
+
+## Descrição do Projeto
 Este projeto tem por objetivo criar um sistema preditivo para antecipar a intenção de compra de clientes no e-commerce, baseando-se em seu perfil demográfico e histórico de consumo. A solução visa otimizar estratégias de marketing, identificar perfis de alta conversão e melhorar a experiência do usuário.
 
-## 🛠 Metodologia (Pipeline de Dados)
+## Metodologia (Pipeline de Dados)
 O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 **Preparação e Exploração (EDA)**: Análise da distribuição dos dados e identificação de correlações.
@@ -14,7 +16,7 @@ O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 **Avaliação**: Validação do desempenho do modelo utilizando métricas como Precisão, Recall e Matriz de Confusão.
 
-## 📊 Principais Insights da Análise Exploratória (EDA)
+## Principais Insights da Análise Exploratória (EDA)
 **Comportamento de Compra**: Categorias como Vinhos e Carnes são as que apresentam maior volume financeiro e maior taxa de conversão online, sugerindo que o e-commerce é um canal forte para estes nichos.
 
 **Perfil do Cliente**: Clientes com renda acima de 50 mil anuais demonstram maior propensão a compras online, enquanto consumidores de renda mais baixa (até 40 mil) convertem menos.
@@ -23,7 +25,7 @@ O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 **Comportamento de Navegação**: Foi identificado um grupo relevante que visita o site frequentemente (até 8 vezes/mês) sem realizar compras, sugerindo o uso da plataforma para pesquisa de preços antes da decisão de compra.
 
-## 🛠 Modelagem Preditiva
+## Modelagem Preditiva
 
 Foram testados dois algoritmos de classificação: **Regressão Logística e Random Forest**.
 
@@ -34,7 +36,7 @@ Gastos com vinhos, Gastos com carnes, Renda, Nº de compras na loja física e N�
 
 - Performance: O modelo final apresentou um excelente equilíbrio, com 95% de recall para a classe positiva, demonstrando alta capacidade de capturar os clientes com real intenção de compra.
 
-## 💡 Conclusões e Recomendações
+## Conclusões e Recomendações
 
 **Conversão**: Ações de marketing direcionadas (descontos exclusivos no site) podem converter clientes de renda mais baixa ou aqueles que apenas consultam preços.
 
