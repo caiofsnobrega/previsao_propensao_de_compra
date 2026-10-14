@@ -6,7 +6,6 @@
 Este projeto tem por objetivo criar um sistema preditivo para antecipar a intenção de compra de clientes no e-commerce, baseando-se em seu perfil demográfico e histórico de consumo. A solução visa otimizar estratégias de marketing, identificar perfis de alta conversão e melhorar a experiência do usuário.
 
 ## Metodologia (Pipeline de Dados)
-O desenvolvimento seguiu as etapas fundamentais de Ciência de Dados:
 
 **Preparação e Exploração (EDA)**: Análise da distribuição dos dados e identificação de correlações.
 
